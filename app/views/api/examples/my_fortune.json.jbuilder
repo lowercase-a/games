@@ -1,2 +1,2 @@
 json.message 'hello'
-json.fortunes @fortunes.shuffle[0]
+json.fortune @fortune
